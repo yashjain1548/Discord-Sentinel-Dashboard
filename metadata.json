@@ -1,0 +1,5 @@
+{
+  "name": "Discord Sentinel Dashboard",
+  "description": "A real-time community health monitoring dashboard that analyzes Discord messages for sentiment, toxicity, and topics using Google Gemini.",
+  "requestFramePermissions": []
+}
